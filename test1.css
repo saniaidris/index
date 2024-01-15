@@ -1,0 +1,244 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+  }
+  
+  
+  
+  .bgimage{
+        background-image: url(https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+        height:450px;
+        width: 350%;
+        background-size:cover;
+        display: flex;
+  
+        
+  }
+  .menu{ 
+        width: 100%;
+        height: 100px;
+        
+  }
+  .leftmenu{
+       width: 20%;
+       line-height:100px;
+       float: left;
+       font-style: italic;
+  }
+  
+  .rightmenu{
+        width: 60%;
+        height: 100px;
+        float: right;
+  }
+  .rightmenu ul li{
+        display:inline;
+        font-style: italic;
+        list-style: none;
+        font-style: 15px;
+        color:black;
+        font-weight: bold;
+        line-height: 100px;
+        margin-left: 40px;
+        text-transform: uppercase;
+        
+  }
+  .rightmenu ul :hover{ 
+        margin-left: 100px;
+  } 
+  
+  .text{
+        width:100%;
+        margin-top: 185px;
+        text-transform: uppercase;
+        text-align: center;
+        color:black; 
+        
+  }
+  
+  .text h4{
+        text-align: center;
+        background-color: transparent;
+        
+        
+        
+       
+  }
+  
+  .text h1{
+        font-size: 62px;
+        font-weight: 500px;
+        margin: 14px;
+        color: black;
+  
+  }
+  
+  .text h5{
+        font-size: 15px;
+        color: black;
+  
+  }
+  
+  .text h6{
+        
+        text-align: center;
+        background-color: transparent;
+        padding: 15px;
+        
+  }
+     
+  .text2{ 
+       width: 350%;
+       color: #000;
+       margin-top:50px;
+       text-align: center;
+       justify-content: center;
+       
+  }
+  .text2 {
+      text-align: center;
+  
+   }
+  
+  .text2 h3{
+        color: #000;
+        padding: 7px;
+  }
+  
+  span{  
+        color:red;
+  }
+.services_box{
+      margin: 10px;
+      width:150%;
+      text-align: center;
+      margin-left:1000px;
+      display: flex;
+}  
+  
+ .ser_box{
+        
+        border: 5px solid black;
+        width: 50%;
+        height: 100px;
+        display:inline-block;
+        padding:3px;
+        align-items: center;
+        margin-top:5px;
+        text-align: center;
+        
+        
+        
+  }
+  
+  .portfolio{
+        text-align: center;
+        margin-top: 6px;
+        width: 350%;
+        
+  }
+   
+  .portfolio h3{
+        padding: 5px;
+        margin-top: 10px;
+  }
+  .portfolio button{
+        padding: 5px;
+        margin-top:15px;
+        
+  }
+ 
+#portfolio1{
+       width: 300%;
+       margin-left:250px;
+       margin-top: 15px;
+
+
+ }
+
+#portfolio2{
+    width: 300%;
+    margin-top: 15px;
+    margin-left:250px ;
+
+}
+#portfolio3{
+    width: 300%;
+    margin-top: 15px;
+    margin-left:250px;
+
+}
+ 
+#img1{
+       width:30%;
+       height:150px;
+       margin-top:20px;
+       vertical-align: middle;
+       flex-direction: column;
+       align-items: center;
+                    
+}
+
+.team{
+    text-align: center;
+    margin-top: 20px;
+    width: 350%;
+}
+.team_container{
+      margin: 10px;
+      width:100%;
+      text-align: center;
+      margin-left:400px;
+      display: flex;
+      border: 5px solid black;
+      
+ }
+.portfolio4 {
+   margin: 50%;
+   border: 2px solid black;
+   text-align: center;
+   margin-left:500px;
+   
+}
+
+#information{
+    text-align: center;
+    margin: 10px;
+    padding: 6px;
+    margin-left:160%;
+    
+
+}
+.contact{
+    text-align: center;
+    margin-top: 20px;
+    width: 350%;
+    padding: 7px;
+
+}
+#end{
+      text-align: center;
+      margin-top: 20px;
+      width: 350%;
+      padding: 7px;
+
+}   
+  
+  
+       
+       
+       
+       
+       
+       
+       
+       
+       
+  
+       
+       
+  
+  
+  
+  
